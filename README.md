@@ -4,7 +4,7 @@
 - Achieved Object-oriented Programming, handled HTTP requests in controllers, created services and responded with JSON objects
 - A project built with tutorials and guildance from [JetBrain Academy - Java Backend Developer Path](https://hyperskill.org/projects/189?track=12)
 
-##Features 
+## Features
 1. Show available seats (by GET on /seats)
 2. Allow customers to purchase their tickets (by POST on /purchase and assign the ticket with a specific code using UUID)
 3. Allow customers to get their tickets refunded (by POST on /return)
