@@ -5,7 +5,7 @@
 - A project built with tutorials and guildance from [JetBrain Academy - Java Backend Developer Path](https://hyperskill.org/projects/189?track=12)
 
 ## Features
-1. Show available seats (by GET on /seats)
-2. Allow customers to purchase their tickets (by POST on /purchase and assign the ticket with a specific code using UUID)
-3. Allow customers to get their tickets refunded (by POST on /return)
-4. Add the movie theater statistics and secure the endpoint with a password (by POST on /stats)
+1. Show available seats (by GET on "/seats")
+2. Allow customers to purchase their tickets (by POST on "/purchase" and assign the ticket with a specific code using UUID)
+3. Allow customers to get their tickets refunded (by POST on "/return")
+4. Add the movie theater statistics and secure the endpoint with a password (by POST on "/stats")
